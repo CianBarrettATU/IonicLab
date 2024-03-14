@@ -1,0 +1,7 @@
+{
+  "name": "province-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
